@@ -1,0 +1,109 @@
+#curriculo {
+    text-align: center;
+    width: 1000px;
+    height : 1400px;
+    margin:auto;
+    border: 1px black solid;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin-left: -650px;
+    margin-top: 20px; 
+    margin-bottom: -200px;
+}
+
+table, th , td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+}
+
+table {
+    width: 700px;
+}
+
+.tabela {
+    margin-left:150px ;
+    margin-top: 40px;
+}
+
+th {
+    background-color:rgba(196, 195, 195, 0.205);
+}
+
+.trabalho {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    font-size: normal;
+    text-align: left;
+    margin-left: 5px;
+}
+
+.formação {
+    font-size: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.empresas {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+}
+
+li {
+    padding: 5px ;
+    font-size:large;
+}
+
+.lista {
+    text-align: left;
+    margin-left: 300px;
+}
+
+.titulo-principal {
+    margin-top:-40px;
+}
+
+.texto {
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.descrição {
+    display: block;
+    text-align: left;
+    margin-left: 340px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:5px;
+}
+
+hr {
+    width: 900px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    
+}
+
+.link:hover {
+    color: blue;
+}
+
+.titulos {
+    margin-left: 100px;
+    text-align: left;
+}
+
+.separacao {
+    margin-top:100px;
+}
+
+.resto {
+    margin-top:50px;
+}
